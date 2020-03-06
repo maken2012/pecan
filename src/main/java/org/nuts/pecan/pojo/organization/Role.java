@@ -11,13 +11,13 @@ import javax.persistence.Id;
 /**
  * @author mashun
  * @Description pecan project
- * @create 2020/3/6 20:37:22
+ * @create 2020/3/6 20:54:41
  */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-public class User {
+public class Role {
 
     @Id
     @GeneratedValue

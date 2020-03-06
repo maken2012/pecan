@@ -3,6 +3,9 @@ package org.nuts.pecan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author mashun
+ */
 @SpringBootApplication
 public class PecanApplication {
 

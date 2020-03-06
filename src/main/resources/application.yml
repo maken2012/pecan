@@ -1,1 +1,9 @@
+server:
+  port: 7600
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/pecan
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: pecan
+    password: pecan
 

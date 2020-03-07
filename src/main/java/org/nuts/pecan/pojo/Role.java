@@ -1,4 +1,4 @@
-package org.nuts.pecan.pojo.organization;
+package org.nuts.pecan.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,13 +11,11 @@ import javax.persistence.Id;
 /**
  * @author mashun
  * @Description pecan project
- * @create 2020/3/6 20:55:09
+ * @create 2020/3/6 20:54:41
  */
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
 @Entity
-public class Org {
+public class Role {
 
     @Id
     @GeneratedValue

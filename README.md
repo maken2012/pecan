@@ -1,10 +1,27 @@
-# pecan
-## pecan 项目文档
-###### 如果想直接使用 参照 pecan使用文档
-### 项目简介
-###### 这是一个开源的人员管理系统，计划实现 多个子人员管理系统集成于一个系统，根据不同的业务需求，实现模块设计，将不同人员管理系统的特点设计为不同的模型。在用户直接注册为管理员后，快速实现小型人员管理系统的搭建
-###### 需要解决问题如下：
-###### 1.用户数据访问题，涉及到数据存储读取模式
-###### 2.模型抽象化，参数实现个体系统的差异性
+# Client
 
-## pecan 使用文档
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
